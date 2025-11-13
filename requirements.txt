@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+
+pandas
+numpy
+requests
+plotly
+scipy
+nba-api
+python-dateutil
+pytz
+openpyxl
